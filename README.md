@@ -30,7 +30,7 @@ Implementing paper
     $ python train.py --train_dir "Train_file.text"
     
 # Testing the model
-    $ python evaluate.py --checkpoints_dir "runs/1523902663/checkpoints"
+    $ python evaluate.py --checkpoint_dir "runs/1523902663/checkpoints"
     
    where 1523902663 shall be the file name in which train.py has stored result for latest training of model.
 * **Official Evaluation of SemEval 2010 Task #8**
